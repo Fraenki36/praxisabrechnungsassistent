@@ -1,0 +1,22 @@
+{
+  "appName": "Praxisabrechnungsassistent Pro",
+  "version": "Web-App 1.0",
+  "defaultProvider": 2,
+  "providers": [
+    {
+      "id": 1,
+      "label": "Beh.1",
+      "name": "Dr. Carsten Stockleben"
+    },
+    {
+      "id": 2,
+      "label": "Beh.2",
+      "name": "Dr. Dirk Stockleben"
+    },
+    {
+      "id": 36,
+      "label": "Beh.36",
+      "name": "Frau Syrine Mellassi"
+    }
+  ]
+}
